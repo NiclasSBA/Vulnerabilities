@@ -1,0 +1,9 @@
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\bin\SQLInjectionvuln.dll.config
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\bin\SQLInjectionvuln.dll
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\bin\SQLInjectionvuln.pdb
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csprojResolveAssemblyReference.cache
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csproj.CoreCompileInputs.cache
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.dll
+C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.pdb
