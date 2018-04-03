@@ -25,7 +25,7 @@
             <br />
             <asp:Label ID="LabelSearch" runat="server" Text="Search"></asp:Label>
             <br />
-            <asp:Button ID="Search_Product_Button" runat="server" Text="Search Product" />
+            <asp:Button ID="Search_Product_Button" runat="server" Text="Search Product" OnClick="Search_Product_Button_Click" />
 
 
             

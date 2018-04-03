@@ -49,5 +49,34 @@ namespace SQLInjectionvuln
                 conn.Close();
             }
         }
+
+        protected void Search_Product_Button_Click(object sender, EventArgs e)
+        {
+
+            try
+            {
+                conn.Open();
+
+                // "INSERT INTO Treatments values(@T_Name, @T_Price, @T_Desc, @T_Image)";
+
+                string SqlString = "SELECT * from Products WHERE ";
+
+
+                cmd = new SqlCommand(SqlString, conn);
+                cmd.ExecuteNonQuery();
+
+                LabelSearch.Text = "Inserted Product";
+            }
+            catch (Exception ex)
+            {
+
+                LabelSearch.Text = ex.Message + ex.StackTrace;
+            }
+            finally
+            {
+                conn.Close();
+            }
+
+        }
     }
 }

@@ -7,3 +7,13 @@ C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjec
 C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csproj.CoreCompileInputs.cache
 C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.dll
 C:\Users\nicla\source\repos\SQLInjectionvuln\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.pdb
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\bin\SQLInjectionvuln.dll.config
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\bin\SQLInjectionvuln.dll
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\bin\SQLInjectionvuln.pdb
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csprojResolveAssemblyReference.cache
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csproj.CoreCompileInputs.cache
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.csproj.CopyComplete
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.dll
+C:\Users\Niclas\source\repos\Vulnerabilities\SQLInjectionvuln\obj\Debug\SQLInjectionvuln.pdb
